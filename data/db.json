@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "September 20, 2024 12:58:11 PM",
+      "body": "Awesome! I'm glad to hear that you solved the issue! 🎉 If you have any more questions or need help with the next steps in your social media app, just let me know!"
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "September 20, 2024 12:56:28 PM",
+      "body": "Thiis my second Post"
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "September 19, 2024 4:08:55 PM",
+      "body": "My Third Post "
+    }
+  ]
+}
