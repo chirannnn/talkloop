@@ -18,6 +18,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "preview": "serve -s build",
+    "server": "json-server -p 5000 -w data/db.json",
+    "dev": "concurrently \"npm run start\" \"npm run server\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

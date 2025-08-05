@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <DataProvider>
-        <Header title="Create Media" />
+        <Header title="Chiran's Media" />
         <Nav />
         <Routes>
           <Route path="/" element={<Home />} />
